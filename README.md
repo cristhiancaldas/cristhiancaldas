@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Cristhian Caldas! :stars:</h1>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=cristhiancaldas alt=cristhiancaldas/></p>
+<p align="left"> 
+<img src=https://komarev.com/ghpvc/?username=cristhiancaldas alt=cristhiancaldas/>
+<img src=https://img.shields.io/github/stars/cristhiancaldas?label=stars&style=social alt=cristhiancaldas/>
+<img src=https://img.shields.io/github/followers/cristhiancaldas?label=follow&style=social  alt=cristhiancaldas/>
+</p>
 
 [![Dev](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/cristhiancaldas)](https://dev.to/cristhiancaldas)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KaldasJhairzino)](https://twitter.com/KaldasJhairzino)
