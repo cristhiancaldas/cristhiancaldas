@@ -6,7 +6,7 @@
 </p>
 
 [![Dev](https://img.shields.io/badge/-dev.to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/cristhiancaldas)](https://dev.to/cristhiancaldas)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KaldasJhairzino)](https://twitter.com/KaldasJhairzino)
+[![Twitter](https://img.shields.io/twitter/follow/KaldasJhairzino?style=flat&labelColor=1ca0f1&label=Follow%20Me%20on%20Twitter&style=social&link=https://twitter.com/KaldasJhairzino)](https://twitter.com/KaldasJhairzino)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caldasmendoza/)](https://www.linkedin.com/in/caldasmendoza/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://cristhiancaldas.medium.com/)](https://cristhiancaldas.medium.com/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@c.caldas.m@gmail.com)](mailto:mail@c.caldas.m@gmail.com)
