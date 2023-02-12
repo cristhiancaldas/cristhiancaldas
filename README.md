@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<h1 align="center">Hi, I'm Cristhian Caldas! :stars:</h1>
+<h1 align="center">Hi, I'm Cristhian! :stars:</h1>
 <p align="left"> 
 <img src=https://komarev.com/ghpvc/?username=cristhiancaldas alt=cristhiancaldas/>
 <img src=https://img.shields.io/github/stars/cristhiancaldas?label=stars&style=social alt=cristhiancaldas/>
@@ -14,7 +14,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://cristhiancaldas.medium.com/)](https://cristhiancaldas.medium.com/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@c.caldas.m@gmail.com)](mailto:mail@c.caldas.m@gmail.com)
 
-<p align="center"> :octocat: <b><a href="https://www.cristhiancaldas.com">Website</a> </b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://www.kristhiandev.com">Website</a> </b> :octocat: </p>
 
 ## About Me :wave:
 #### ¿QUIEN SOY YO?<br>
@@ -29,11 +29,6 @@ Me encanta trabajar con tecnologías web y compartir mis experiencias para ayuda
 
 ## 🚀💻 Technologies I'm Learning :books:
 
-#### Software:
-
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-
 #### Front-end:
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
@@ -47,7 +42,8 @@ Me encanta trabajar con tecnologías web y compartir mis experiencias para ayuda
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 
 #### Editors ,Tools and Operating Systems:
 
